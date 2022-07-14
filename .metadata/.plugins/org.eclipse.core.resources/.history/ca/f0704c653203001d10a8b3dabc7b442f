@@ -1,0 +1,5 @@
+package com.spring.pr.command;
+
+public class UserVO {
+
+}

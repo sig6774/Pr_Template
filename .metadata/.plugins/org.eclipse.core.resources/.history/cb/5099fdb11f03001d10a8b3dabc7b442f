@@ -1,0 +1,5 @@
+package com.spring.pr.user.mapper;
+
+public interface IUserMapper {
+
+}

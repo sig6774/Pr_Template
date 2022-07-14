@@ -1,0 +1,5 @@
+package com.spring.pr.board.service;
+
+public interface IBoardService {
+
+}

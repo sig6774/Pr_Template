@@ -1,0 +1,9 @@
+package com.spring.pr.command;
+
+
+@Getter
+@Setter
+@ToString
+public class UserVO {
+
+}
